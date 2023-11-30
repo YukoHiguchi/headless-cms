@@ -29,7 +29,7 @@ export default defineType({
         defineArrayMember({type: 'MainHero'}),
         defineArrayMember({type: 'Quote'}),
         defineArrayMember({type: 'CtaBanner'}),
-        defineArrayMember({type: 'sFeaturedItems'}),
+        defineArrayMember({type: 'FeaturedItems'}),
         defineArrayMember({type: 'FeaturedText'}),
         defineArrayMember({type: 'MediaModule'})
       ]
